@@ -1,4 +1,4 @@
 # ignore Rstudio project files
-# new line test
+
 *.Rproj
 
